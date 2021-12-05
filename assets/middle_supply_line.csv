@@ -1,0 +1,42 @@
+index,name,version,cardName,cost
+1,The Clinic,1,Motorcycle Jacket,30
+2,The Clinic,1,Durable,30
+3,The Clinic,1,Poultice,70
+4,The Clinic,1,EMT Bag,45
+5,The Clinic,1,Inspiring Sacrifice,100
+6,The Furnace,1,Padded Suit,45
+7,The Furnace,1,Hydration Pack,45
+8,The Furnace,1,Buckshot Bruiser,75
+9,The Furnace,1,Support Scavenger,100
+10,The Furnace,1,Fanny Pack,30
+11,Grant's Brew House,1,Slugger,30
+12,Grant's Brew House,1,Smelling Salts,30
+13,Grant's Brew House,1,Body Armor,45
+14,Grant's Brew House,1,Scar Tissue,100
+15,Grant's Brew House,1,Fresh Bandage,70
+16,The Clinic,2,Shoulder Bag,45
+17,The Clinic,2,Pep Talk,45
+18,The Clinic,2,Well Fed,100
+19,The Clinic,2,Charitable Soul,100
+20,The Furnace,2,Amped Up,45
+21,The Furnace,2,Motorcycle Helmet,70
+22,The Furnace,2,Broadside,100
+23,The Furnace,2,Combat Medic,100
+24,Grant's Brew House,2,Box O` Bags,70
+25,Grant's Brew House,2,Canned Goods,70
+26,Grant's Brew House,2,Wooden Armor,70
+27,The Clinic,3,Group Therapy,70
+28,The Clinic,3,Sunder,150
+29,The Clinic,3,Numb,45
+30,The Clinic,3,Life Insurance,100
+31,The Furnace,3,Overwatch,100
+32,The Furnace,3,True Grit,100
+33,The Furnace,3,Pyro,100
+34,The Furnace,3,Heavy Hitter,100
+35,Grant's Brew House,3,Line 'em Up,100
+36,Grant's Brew House,3,Rousing Speech,70
+37,The Clinic,4,Medical Expert,100
+38,The Clinic,4,Experienced EMT,75
+39,The Clinic,4,Saferoom Recovery,75
+40,The Clinic,4,Medical Professional,100
+41,The Clinic,4,Miraculous Recovery,150

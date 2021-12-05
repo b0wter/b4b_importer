@@ -1,0 +1,78 @@
+#!fsharp
+
+#r "nuget: Newtonsoft.Json, 13.0.0"
+
+#!fsharp
+
+open System
+open System.IO
+open System.Collections.Generic
+
+#!fsharp
+
+type SupplyLine = {
+    track: string
+    name: string
+    tier: int
+    index: int
+}
+
+type Card = {
+    name: string
+    cost: int
+    totalCost: int
+    effect: string
+    filename: string
+    properties: string list
+    supplyLine: SupplyLine
+    kind: string
+    affinity: string
+    id: int
+}
+
+#!fsharp
+
+let raw = File.ReadAllText("merged_cards.json")
+let json = Newtonsoft.Json.JsonConvert.DeserializeObject<List<Card>>(raw)
+
+#!fsharp
+
+let s (str: string) =
+    $"\"{str}\""
+
+#!fsharp
+
+let formatCard (card: Card) : string =
+    let lines = [
+        "{"
+        $"id = {card.id},"
+        $"name = {s card.name},"
+        $"cost = {card.cost},"
+        $"totalCost = {card.totalCost},"
+        $"filename = {s card.filename},"
+        "properties ="
+        "["
+        String.Join(',',card.properties |> List.map s)
+        "],"
+        "supplyLine = "
+        "{"
+        $"track = {s card.supplyLine.track},"
+        $"name = {s card.supplyLine.name},"
+        $"tier = {card.supplyLine.tier},"
+        $"index = {card.supplyLine.index}"
+        "},"
+        $"kind = {s card.kind},"
+        $"affinity = {s card.affinity}"
+        "},"
+    ]
+    let lines = lines |> List.map (fun s -> "        " + s)
+    String.Join(Environment.NewLine, lines)
+    
+let formatCards (cards: Card list) : string =
+    let lines = "    [" :: (cards |> List.map formatCard) @ ["    ]"]
+    String.Join(Environment.NewLine, lines)
+
+#!fsharp
+
+let foo = formatCards (json |> List.ofSeq)
+File.WriteAllText("CardDate.elm", foo)

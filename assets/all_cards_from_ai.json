@@ -1,0 +1,2342 @@
+[
+    {
+        "effects":
+        [],
+        "filename": "10_0_0.jpg",
+        "id": 1,
+        "properties":
+        [
+            {
+                "description": "You can sense nearby Support Accessories."
+            },
+            {
+                "description": "More Support Accessories spawn."
+            }
+        ],
+        "title": "SUPPORT SCAVENGER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_0_1.jpg",
+        "id": 2,
+        "properties":
+        [
+            {
+                "description": "You can sense nearby weapons."
+            },
+            {
+                "description": "More weapons spawn."
+            }
+        ],
+        "title": "WEAPON SCAVENGER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_0_2.jpg",
+        "id": 3,
+        "properties":
+        [
+            {
+                "description": "When you exit a starting saferoom, your team gains 50 Temporary Health."
+            }
+        ],
+        "title": "AMPED UP"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_0_3.jpg",
+        "id": 4,
+        "properties":
+        [
+            {
+                "description": "Each second you Aim Down Sights increases your Damage by 10% (up to 3 stacks)."
+            }
+        ],
+        "title": "PATIENT HUNTER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_0_4.jpg",
+        "id": 5,
+        "properties":
+        [
+            {
+                "description": "Reloading a gun within 0.75 seconds of reaching low ammo will increase its magazine size by - 30% until the next reload."
+            }
+        ],
+        "title": "POWER RELOAD"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_0_0.jpg",
+        "id": 6,
+        "properties":
+        [
+            {
+                "description": "+ 20% Stamina"
+            },
+            {
+                "description": "+ 20% Stamina Regen"
+            },
+            {
+                "description": "+ 3% Move Speed"
+            },
+            {
+                "description": "+ 5 Health"
+            }
+        ],
+        "title": "CROSS TRAINERS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_1_0.jpg",
+        "id": 7,
+        "properties":
+        [
+            {
+                "description": "Mutations you ping are highlighted and your team deals 10% increased damage to highlighted enemies."
+            }
+        ],
+        "title": "MARKED FOR DEATH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_1_1.jpg",
+        "id": 8,
+        "properties":
+        [
+            {
+                "description": "+ 10% Weakspoť Damage"
+            },
+            {
+                "description": "Allows players to see values for damage they deal and enemy health bars."
+            }
+        ],
+        "title": "KNOWLEDGE IS POWER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_1_2.jpg",
+        "id": 9,
+        "properties":
+        [
+            {
+                "description": "+ 30% Rifle Ammo Capacity"
+            },
+            {
+                "description": "+ 10% Damage with Assault Rifles and LMGS"
+            }
+        ],
+        "title": "TACTICAL VEST"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_1_3.jpg",
+        "id": 10,
+        "properties":
+        [
+            {
+                "description": "When you use a Medical Accessory, the target gains +20% Maximum Health until the end of the level."
+            }
+        ],
+        "title": "EXPERIENCED EMT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "10_1_4.jpg",
+        "id": 11,
+        "properties":
+        [
+            {
+                "description": "+ 15 Health"
+            }
+        ],
+        "title": "VITAMINS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_0_1.jpg",
+        "id": 12,
+        "properties":
+        [
+            {
+                "description": "+ 40% Stamina"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "ENERGY DRINK"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_0_2.jpg",
+        "id": 13,
+        "properties":
+        [
+            {
+                "description": "+ 60% Stamina"
+            },
+            {
+                "description": "- 20% Slow Resistance"
+            }
+        ],
+        "title": "RHYTHMIC BREATHING"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_0_3.jpg",
+        "id": 14,
+        "properties":
+        [
+            {
+                "description": "+ 20% Reload Speed"
+            }
+        ],
+        "title": "RELOAD DRILLS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_0_4.jpg",
+        "id": 15,
+        "properties":
+        [
+            {
+                "description": "+ 30% Reload Speed"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "WIDEMOUTH MAGWELL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_0_0.jpg",
+        "id": 16,
+        "properties":
+        [
+            {
+                "description": "+ 25 Health"
+            },
+            {
+                "description": "- 15% Ammo Capacity"
+            }
+        ],
+        "title": "HYDRATION PACK"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_0_1.jpg",
+        "id": 17,
+        "properties":
+        [
+            {
+                "description": "+ 40 Health"
+            },
+            {
+                "description": "- 30% Stamina"
+            }
+        ],
+        "title": "CANNED GOODS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_0_2.jpg",
+        "id": 18,
+        "properties":
+        [
+            {
+                "description": "+ 40% Melee Damage"
+            },
+            {
+                "description": "+ 5 Health"
+            }
+        ],
+        "title": "BATTER UP"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_0_3.jpg",
+        "id": 19,
+        "properties":
+        [
+            {
+                "description": "+ 20% Melee Damage"
+            },
+            {
+                "description": "+ 10% Damage Resistance while using a Melee weapon"
+            },
+            {
+                "description": "- 15% Ammo Capacity"
+            }
+        ],
+        "title": "SPIKY BITS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_0_4.jpg",
+        "id": 20,
+        "properties":
+        [
+            {
+                "description": "+ 60% Melee Damage"
+            },
+            {
+                "description": "Your Melee Attacks cause cleave through enemies dealing damage in a large area."
+            },
+            {
+                "description": "DISABLES: Sprint"
+            }
+        ],
+        "title": "MEAN DRUNK"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_1_0.jpg",
+        "id": 21,
+        "properties":
+        [
+            {
+                "description": "+ 50% Reload Speed"
+            },
+            {
+                "description": "DISABLES: Aim Down Sights"
+            }
+        ],
+        "title": "MAG COUPLER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_1_0.jpg",
+        "id": 22,
+        "properties":
+        [
+            {
+                "description": "+ 15% Trauma Resistance"
+            },
+            {
+                "description": "+ 5 Health"
+            }
+        ],
+        "title": "DURABLE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_1_1.jpg",
+        "id": 23,
+        "properties":
+        [
+            {
+                "description": "+ 25% Trauma Resistance"
+            },
+            {
+                "description": "- 15% Ammo Capacity"
+            }
+        ],
+        "title": "BODY ARMOR"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_1_2.jpg",
+        "id": 24,
+        "properties":
+        [
+            {
+                "description": "+ 40% Trauma Resistance"
+            },
+            {
+                "description": "- 100% Fire Resistance"
+            },
+            {
+                "description": "- 100% Acid Resistance"
+            },
+            {
+                "description": "- 100% Explosion Resistance"
+            }
+        ],
+        "title": "WOODEN ARMOR"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_1_3.jpg",
+        "id": 25,
+        "properties":
+        [
+            {
+                "description": "+ 25% Accessory Damage"
+            }
+        ],
+        "title": "GRENADE TRAINING"
+    },
+    {
+        "effects":
+        [],
+        "filename": "11_1_4.jpg",
+        "id": 26,
+        "properties":
+        [
+            {
+                "description": "+ 50% Accessory Damage"
+            },
+            {
+                "description": "- 15% Ammo Capacity"
+            }
+        ],
+        "title": "DEMOLITIONS EXPERT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_1_1.jpg",
+        "id": 27,
+        "properties":
+        [
+            {
+                "description": "+ 5 Health"
+            },
+            {
+                "description": "+ 10% Melee Stamina Efficiency"
+            },
+            {
+                "description": "+ 20% Melee Attack Speed"
+            }
+        ],
+        "title": "SLUGGER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_1_2.jpg",
+        "id": 28,
+        "properties":
+        [
+            {
+                "description": "+ 20% Melee Stamina Efficiency"
+            },
+            {
+                "description": "+ 30% Melee Attack Speed"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "BRAZEN"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_1_3.jpg",
+        "id": 29,
+        "properties":
+        [
+            {
+                "description": "+ 40% Melee Attack Speed"
+            },
+            {
+                "description": "+ 30% Melee Stamina Efficiency"
+            },
+            {
+                "description": "Your Melee Attacks no longer stick in tough enemies."
+            },
+            {
+                "description": "DISABLES: Aim Down Sights"
+            }
+        ],
+        "title": "METH HEAD"
+    },
+    {
+        "effects":
+        [],
+        "filename": "1_1_4.jpg",
+        "id": 30,
+        "properties":
+        [
+            {
+                "description": "+ 20% Weakspot Damage"
+            }
+        ],
+        "title": "RIDDEN SLAYER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_0_0.jpg",
+        "id": 31,
+        "properties":
+        [
+            {
+                "description": "+ 75% Accessory Damage"
+            },
+            {
+                "description": "- 25% Swap Speed"
+            }
+        ],
+        "title": "IMPROVISED EXPLOSIVES"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_0_1.jpg",
+        "id": 32,
+        "properties":
+        [
+            {
+                "description": "When you or your team kills a Mutation gain 1% damage (up to - 15%) until the end of the level."
+            }
+        ],
+        "title": "CONFIDENT KILLER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_0_2.jpg",
+        "id": 33,
+        "properties":
+        [
+            {
+                "description": "Melee hits against Weakspots deal + 20 additional Stumble Damage."
+            }
+        ],
+        "title": "HEAVY HITTER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_0_3.jpg",
+        "id": 34,
+        "properties":
+        [
+            {
+                "description": "+ 20% Melee Damage against Mutations"
+            },
+            {
+                "description": "When you deal Melee damage to a Mutation heal 1 Health and recover 3 Stamina."
+            }
+        ],
+        "title": "IGNORE THE PAIN"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_0_4.jpg",
+        "id": 35,
+        "properties":
+        [
+            {
+                "description": "Gain 10% Melee Damage, 10% Melee Speed, and 5% Move Speed for each Melee kill in the last 4 seconds."
+            }
+        ],
+        "title": "BERSERKER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_1_0.jpg",
+        "id": 36,
+        "properties":
+        [
+            {
+                "description": "When you take a single hit for 15 or more damage, heal 10 health over 5 seconds."
+            }
+        ],
+        "title": "TRUE GRIT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_1_1.jpg",
+        "id": 37,
+        "properties":
+        [
+            {
+                "description": "+ 100% Fire damage."
+            },
+            {
+                "description": "Kills with fire grant you Temporary Health."
+            },
+            {
+                "description": "You can sense flammable objects nearby."
+            }
+        ],
+        "title": "PYRO"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_1_2.jpg",
+        "id": 38,
+        "properties":
+        [
+            {
+                "description": "+ 100% Explosive Damage"
+            },
+            {
+                "description": "+ 35% Explosive Resistance"
+            }
+        ],
+        "title": "BOMB SQUAD"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_1_3.jpg",
+        "id": 39,
+        "properties":
+        [
+            {
+                "description": "Take 1 less damage from all Ridden."
+            }
+        ],
+        "title": "SCAR TISSUE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "12_1_4.jpg",
+        "id": 40,
+        "properties":
+        [
+            {
+                "description": "Melee kills heal 2 Health."
+            }
+        ],
+        "title": "BATTLE LUST"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_0_0.jpg",
+        "id": 41,
+        "properties":
+        [
+            {
+                "description": "+ 100% Bullet Penetration with Assault Rifles."
+            }
+        ],
+        "title": "LINE 'EM UP"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_0_1.jpg",
+        "id": 42,
+        "properties":
+        [
+            {
+                "description": "Gain 2 Temporary Health whenever you kill a Ridden within 2 meters."
+            }
+        ],
+        "title": "FACE YOUR FEARS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_0_2.jpg",
+        "id": 43,
+        "properties":
+        [
+            {
+                "description": "- 20% Stamina Regen"
+            },
+            {
+                "description": "TEAM EFFECTS + 10 Team Health"
+            }
+        ],
+        "title": "WELL FED"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_0_3.jpg",
+        "id": 44,
+        "properties":
+        [
+            {
+                "description": "Charge: Hold with Melee weapons to burst forward. Charge attacks deal 100% increased damage."
+            }
+        ],
+        "title": "HEAVY ATTACK"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_0_4.jpg",
+        "id": 45,
+        "properties":
+        [
+            {
+                "description": "Melee hits cause the target to take 20% increased damage for 5 seconds."
+            }
+        ],
+        "title": "SUNDER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_1_0.jpg",
+        "id": 46,
+        "properties":
+        [
+            {
+                "description": "Kills from greater than 15 meters grant 5 Temporary Health to teammates within 10 meters of the target."
+            }
+        ],
+        "title": "OVERWATCH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_1_1.jpg",
+        "id": 47,
+        "properties":
+        [
+            {
+                "description": "Heal 10 Trauma Damage at the start of each level."
+            }
+        ],
+        "title": "FRESH BANDAGE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_1_2.jpg",
+        "id": 48,
+        "properties":
+        [
+            {
+                "description": "You can equip a Primary weapon in your Secondary slot."
+            },
+            {
+                "description": "- 25% Swap Speed"
+            }
+        ],
+        "title": "TWO IS ONE AND ONE IS NONE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_1_3.jpg",
+        "id": 49,
+        "properties":
+        [
+            {
+                "description": "You can sense nearby Offensive Accessories."
+            },
+            {
+                "description": "More Offensive Accessories spawn."
+            }
+        ],
+        "title": "OFFENSIVE SCAVENGER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "13_1_4.jpg",
+        "id": 50,
+        "properties":
+        [
+            {
+                "description": "Pain Meds you apply also grant + 25% Damage for 60 seconds."
+            }
+        ],
+        "title": "CHEMICAL COURAGE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_0_0.jpg",
+        "id": 51,
+        "properties":
+        [
+            {
+                "description": "Gain + 15% Damage Resistance while you have Temporary Health."
+            }
+        ],
+        "title": "NUMB"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_0_1.jpg",
+        "id": 52,
+        "properties":
+        [
+            {
+                "description": "Precision Kills have a 20% chance to cause Ridden to explode, dealing 15 damage to other Ridden within 4 meters."
+            }
+        ],
+        "title": "BROADSIDE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_0_2.jpg",
+        "id": 53,
+        "properties":
+        [
+            {
+                "description": "When using Shotguns, gain 0.25 Temporary Health for each pellet that hits."
+            }
+        ],
+        "title": "BUCKSHOT BRUISER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_0_3.jpg",
+        "id": 54,
+        "properties":
+        [
+            {
+                "description": "+ 1 Extra Life"
+            },
+            {
+                "description": "+ 5 Health"
+            }
+        ],
+        "title": "SECOND CHANCE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_0_4.jpg",
+        "id": 55,
+        "properties":
+        [
+            {
+                "description": "+ 1 Offensive Inventory"
+            }
+        ],
+        "title": "GRENADE POUCH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_1_0.jpg",
+        "id": 56,
+        "properties":
+        [
+            {
+                "description": "+ 2 Offensive Inventory"
+            },
+            {
+                "description": "- 10% Damage Dealt"
+            }
+        ],
+        "title": "DOUBLE GRENADE POUCH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_1_1.jpg",
+        "id": 57,
+        "properties":
+        [
+            {
+                "description": "- 10% Health"
+            },
+            {
+                "description": "TEAM EFFECTS + 1 Team Offensive Inventory"
+            }
+        ],
+        "title": "SURPLUS POUCHES"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_1_2.jpg",
+        "id": 58,
+        "properties":
+        [
+            {
+                "description": "+ 1 Support Inventory"
+            }
+        ],
+        "title": "FANNY PACK"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_1_3.jpg",
+        "id": 59,
+        "properties":
+        [
+            {
+                "description": "+ 2 Support Inventory"
+            },
+            {
+                "description": "- 10% Damage Dealt"
+            }
+        ],
+        "title": "SHOULDER BAG"
+    },
+    {
+        "effects":
+        [],
+        "filename": "14_1_4.jpg",
+        "id": 60,
+        "properties":
+        [
+            {
+                "description": "- 10% Health"
+            },
+            {
+                "description": "TEAM EFFECTS + 1 Team Support Inventory"
+            }
+        ],
+        "title": "BOX O` BAGS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_0_0.jpg",
+        "id": 61,
+        "properties":
+        [
+            {
+                "description": "Melee kills have a 2% chance to spawn ammo."
+            }
+        ],
+        "title": "MUGGER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_0_1.jpg",
+        "id": 62,
+        "properties":
+        [
+            {
+                "description": "Pistol kills have a 2% chance to spawn ammo."
+            }
+        ],
+        "title": "HIGHWAYMAN"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_0_2.jpg",
+        "id": 63,
+        "properties":
+        [
+            {
+                "description": "When you stow your weapon, it reloads."
+            },
+            {
+                "description": "- 15% Ammo Capacity"
+            }
+        ],
+        "title": "ADMIN RELOAD"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_0_3.jpg",
+        "id": 64,
+        "properties":
+        [
+            {
+                "description": "When you kill a Mutation, gain 10 Copper (up to 300 per level)."
+            }
+        ],
+        "title": "BOUNTY HUNTER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_0_4.jpg",
+        "id": 65,
+        "properties":
+        [
+            {
+                "description": "Your secondary weapons have unlimited ammo."
+            },
+            {
+                "description": "Your secondary weapons reload - 20% slower."
+            }
+        ],
+        "title": "AMMO STASH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_1_0.jpg",
+        "id": 66,
+        "properties":
+        [
+            {
+                "description": "+ 2 Extra Life"
+            },
+            {
+                "description": "Lose 50 Copper at the start of each level."
+            }
+        ],
+        "title": "LIFE INSURANCE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_1_1.jpg",
+        "id": 67,
+        "properties":
+        [
+            {
+                "description": "Kills while at Critical Health recover 1 Health."
+            }
+        ],
+        "title": "WOUNDED ANIMAL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_1_2.jpg",
+        "id": 68,
+        "properties":
+        [
+            {
+                "description": "Gain 10% of your total Copper in each Saferoom."
+            }
+        ],
+        "title": "COMPOUND INTEREST"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_1_3.jpg",
+        "id": 69,
+        "properties":
+        [
+            {
+                "description": "Whenever you or your team loots Copper, you have a 35% chance to find 35% additional Copper."
+            }
+        ],
+        "title": "LUCKY PENNIES"
+    },
+    {
+        "effects":
+        [],
+        "filename": "15_1_4.jpg",
+        "id": 70,
+        "properties":
+        [
+            {
+                "description": "Each time your team loots Copper, you gain 3 additional Copper, stacking up to 75 additional Сopper."
+            }
+        ],
+        "title": "MONEY GRUBBERS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "16_0_0.jpg",
+        "id": 71,
+        "properties":
+        [
+            {
+                "description": "You can shoot while sprinting."
+            }
+        ],
+        "title": "RUN AND GUN"
+    },
+    {
+        "effects":
+        [],
+        "filename": "16_0_1.jpg",
+        "id": 72,
+        "properties":
+        [
+            {
+                "description": "You can sense nearby Copper."
+            },
+            {
+                "description": "More Copper Piles spawn."
+            }
+        ],
+        "title": "COPPER SCAVENGER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "16_0_2.jpg",
+        "id": 73,
+        "properties":
+        [
+            {
+                "description": "Each teammate gains 100 bonus Copper at the start of each level."
+            }
+        ],
+        "title": "SHARE THE WEALTH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "16_0_3.jpg",
+        "id": 74,
+        "properties":
+        [
+            {
+                "description": "+ 30% Shotgun Ammo Capacity"
+            },
+            {
+                "description": "+ 10% Damage with Shotguns"
+            }
+        ],
+        "title": "SHELL CARRIER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "16_0_4.jpg",
+        "id": 75,
+        "properties":
+        [
+            {
+                "description": "Gain 250 bonus Copper at the"
+            },
+            {
+                "description": "start of each level."
+            }
+        ],
+        "title": "HAZARD PAY"
+    },
+    {
+        "effects":
+        [],
+        "filename": "16_1_0.jpg",
+        "id": 76,
+        "properties":
+        [
+            {
+                "description": "Your team heals 5 Trauma Damage and refills 10% Ammo at the start of each level."
+            }
+        ],
+        "title": "SAFEROOM RECOVERY"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_0_0.jpg",
+        "id": 77,
+        "properties":
+        [
+            {
+                "description": "+ 30% Weakspot Damage"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "RECKLESS STRATEGY"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_0_1.jpg",
+        "id": 78,
+        "properties":
+        [
+            {
+                "description": "+ 50% Weakspot Damage"
+            },
+            {
+                "description": "- 75% ADS Move Speed."
+            }
+        ],
+        "title": "HYPER-FOCUSED"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_0_2.jpg",
+        "id": 79,
+        "properties":
+        [
+            {
+                "description": "+ 30% Aim Speed"
+            }
+        ],
+        "title": "HI VIS SIGHTS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_0_3.jpg",
+        "id": 80,
+        "properties":
+        [
+            {
+                "description": "+ 50% Aim Speed"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "TUNNEL VISION"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_0_4.jpg",
+        "id": 81,
+        "properties":
+        [
+            {
+                "description": "+ 80% Aim Speed"
+            },
+            {
+                "description": "- 50% ADS Move Speed"
+            }
+        ],
+        "title": "STEADY AIM"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_1_0.jpg",
+        "id": 82,
+        "properties":
+        [
+            {
+                "description": "+ 25% Weapon Swap Speed"
+            }
+        ],
+        "title": "SHOOTING GLOVES"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_1_1.jpg",
+        "id": 83,
+        "properties":
+        [
+            {
+                "description": "+ 50% Weapon Swap Speed"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "GUNS OUT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_1_2.jpg",
+        "id": 84,
+        "properties":
+        [
+            {
+                "description": "+ 75% Weapon Swap Speed"
+            },
+            {
+                "description": "When you take damage, your Accuracy is reduced by 20% for 3 seconds."
+            }
+        ],
+        "title": "COCKY"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_1_3.jpg",
+        "id": 85,
+        "properties":
+        [
+            {
+                "description": "+ 100% Revive Speed"
+            }
+        ],
+        "title": "SMELLING SALTS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "2_1_4.jpg",
+        "id": 86,
+        "properties":
+        [
+            {
+                "description": "+ 150% Revive Speed"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "PEP TALK"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_0_0.jpg",
+        "id": 87,
+        "properties":
+        [
+            {
+                "description": "+ 225% Revive Speed"
+            },
+            {
+                "description": "DISABLES: Offensive Accessories"
+            },
+            {
+                "description": "TEAM EFFECTS + 20% Reduced Incap Trauma"
+            }
+        ],
+        "title": "ROUSING SPEECH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_0_1.jpg",
+        "id": 88,
+        "properties":
+        [
+            {
+                "description": "+ 5% Move Speed"
+            }
+        ],
+        "title": "DASH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_0_2.jpg",
+        "id": 89,
+        "properties":
+        [
+            {
+                "description": "+ 10% Move Speed"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "FLEET OF FOOT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_0_3.jpg",
+        "id": 90,
+        "properties":
+        [
+            {
+                "description": "+ 15% Move Speed"
+            },
+            {
+                "description": "When you take damage, your Accuracy is reduced by 20% for 3 seconds."
+            }
+        ],
+        "title": "RUN LIKE HELL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_0_4.jpg",
+        "id": 91,
+        "properties":
+        [
+            {
+                "description": "+ 20% Stamina"
+            },
+            {
+                "description": "+ 20% Sprint Efficiency"
+            },
+            {
+                "description": "+ 5 Health"
+            }
+        ],
+        "title": "SUPERIOR CARDIO"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_1_0.jpg",
+        "id": 92,
+        "properties":
+        [
+            {
+                "description": "+ 30% Sprint Efficiency"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "OLYMPIC SPRINTER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_1_1.jpg",
+        "id": 93,
+        "properties":
+        [
+            {
+                "description": "+ 40% Sprint Efficiency"
+            },
+            {
+                "description": "When you take damage while Sprinting, you lose all Stamina."
+            }
+        ],
+        "title": "RECKLESS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_1_2.jpg",
+        "id": 94,
+        "properties":
+        [
+            {
+                "description": "Breakout: Hold E to free yourself from Grabs."
+            },
+            {
+                "description": "+ 50% Breakout Cooldown Reduction. (Base 60 seconds)."
+            }
+        ],
+        "title": "BREAKOUT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_1_3.jpg",
+        "id": 95,
+        "properties":
+        [
+            {
+                "description": "+ 50% Use Speed"
+            },
+            {
+                "description": "Heals teammates for an additional 20 Health when you revive them."
+            }
+        ],
+        "title": "COMBAT MEDIC"
+    },
+    {
+        "effects":
+        [],
+        "filename": "3_1_4.jpg",
+        "id": 96,
+        "properties":
+        [
+            {
+                "description": "When you throw an Offensive Accessory, gain 20 Temporary Health and 20% Move Speed for 5 seconds."
+            }
+        ],
+        "title": "FIRE IN THE HOLE!"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_0_0.jpg",
+        "id": 97,
+        "properties":
+        [
+            {
+                "description": "+ 15% Healing Efficiency"
+            },
+            {
+                "description": "When you use a Medical Accessory, you gain 15% Move Speed for 15 seconds."
+            }
+        ],
+        "title": "MEDICAL EXPERT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_0_1.jpg",
+        "id": 98,
+        "properties":
+        [
+            {
+                "description": "+ 35% Move Speed while firing with Shotguns."
+            },
+            {
+                "description": "+ 10% Damage with Shotguns."
+            }
+        ],
+        "title": "ROLLING THUNDER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_0_2.jpg",
+        "id": 99,
+        "properties":
+        [
+            {
+                "description": "+ 6% Move Speed while using an SMG."
+            },
+            {
+                "description": "+ 35% Reload Speed while using an SMG."
+            }
+        ],
+        "title": "SPEED DEMON"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_0_3.jpg",
+        "id": 100,
+        "properties":
+        [
+            {
+                "description": "+ 45% Move Speed while firing."
+            },
+            {
+                "description": "+ 5% Move Speed while not firing."
+            }
+        ],
+        "title": "HELLFIRE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_0_4.jpg",
+        "id": 101,
+        "properties":
+        [
+            {
+                "description": "No Movement Penalty for strafe and backpedal."
+            },
+            {
+                "description": "DISABLES: Sprint"
+            }
+        ],
+        "title": "MARATHON RUNNER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_1_0.jpg",
+        "id": 102,
+        "properties":
+        [
+            {
+                "description": "TEAM EFFECTS + 15% Team Stamina"
+            }
+        ],
+        "title": "MANDATORY PT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_1_1.jpg",
+        "id": 103,
+        "properties":
+        [
+            {
+                "description": "Precision Kills grant you 10% Move Speed for 5 seconds."
+            }
+        ],
+        "title": "PEP IN YOUR STEP"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_1_2.jpg",
+        "id": 104,
+        "properties":
+        [
+            {
+                "description": "Each bullet hit causes the target to take 1% increased damage for 3 seconds (stacks up to 15% )."
+            }
+        ],
+        "title": "SHREDDER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_1_3.jpg",
+        "id": 105,
+        "properties":
+        [
+            {
+                "description": "+ 25% Damage"
+            },
+            {
+                "description": "- 30% Health"
+            }
+        ],
+        "title": "GLASS CANNON"
+    },
+    {
+        "effects":
+        [],
+        "filename": "4_1_4.jpg",
+        "id": 106,
+        "properties":
+        [
+            {
+                "description": "Gain 5% Weakspot Damage for each Precision Kill in the last 10 seconds."
+            }
+        ],
+        "title": "SADISTIC"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_0_0.jpg",
+        "id": 107,
+        "properties":
+        [
+            {
+                "description": "When you take a hit for 10 or more damage, gain 20% Move Speed for 3 seconds."
+            }
+        ],
+        "title": "EVASIVE ACTION"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_0_1.jpg",
+        "id": 108,
+        "properties":
+        [
+            {
+                "description": "+ 100% Stamina"
+            },
+            {
+                "description": "- 75% Stamina Regeneration"
+            },
+            {
+                "description": "When you kill an enemy, gain 10 Stamina instantly and an additional 10 Stamina over 5 seconds."
+            }
+        ],
+        "title": "ADRENALINE FUELED"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_0_2.jpg",
+        "id": 109,
+        "properties":
+        [
+            {
+                "description": "When you use a Medical Accessory, it has a 25% chance to have 100% increased effect."
+            }
+        ],
+        "title": "MIRACULOUS RECOVERY"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_0_3.jpg",
+        "id": 110,
+        "properties":
+        [
+            {
+                "description": "+ 50% Use Speed"
+            },
+            {
+                "description": "+ 10% Stamina"
+            }
+        ],
+        "title": "SCREWDRIVER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_0_4.jpg",
+        "id": 111,
+        "properties":
+        [
+            {
+                "description": "+ 75% Use Speed"
+            },
+            {
+                "description": "- 5% Damage Resistance"
+            }
+        ],
+        "title": "MULTITOOL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_1_0.jpg",
+        "id": 112,
+        "properties":
+        [
+            {
+                "description": "+ 125% Use Speed"
+            },
+            {
+                "description": "When you take damage, you have a chance to be blinded for 1 second."
+            }
+        ],
+        "title": "HEADBAND MAGNIFIER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_1_1.jpg",
+        "id": 113,
+        "properties":
+        [
+            {
+                "description": "You can sense nearby Quick"
+            },
+            {
+                "description": "Accessories. More Quick Accessories spawn."
+            }
+        ],
+        "title": "UTILITY SCAVENGER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_1_2.jpg",
+        "id": 114,
+        "properties":
+        [
+            {
+                "description": "Pain Meds you apply also grant + 10% Move Speed, + 10% Reload Speed, and + 10% Weapon Swap Speed for 30 seconds."
+            }
+        ],
+        "title": "STIMULANTS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_1_3.jpg",
+        "id": 115,
+        "properties":
+        [
+            {
+                "description": "When you exit a starting saferoom your team gains + 15% Move Speed for 30 seconds."
+            }
+        ],
+        "title": "ON YOUR MARK..."
+    },
+    {
+        "effects":
+        [],
+        "filename": "5_1_4.jpg",
+        "id": 116,
+        "properties":
+        [
+            {
+                "description": "+ 30% Weakspot Damage"
+            },
+            {
+                "description": "DISABLES: Aim Down Sights"
+            }
+        ],
+        "title": "KILLER'S INSTINCT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_0_0.jpg",
+        "id": 117,
+        "properties":
+        [
+            {
+                "description": "Changing weapons within 0.75 seconds of reaching low ammo grants + 20% Damage for 5 seconds."
+            }
+        ],
+        "title": "POWER SWAP"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_0_1.jpg",
+        "id": 118,
+        "properties":
+        [
+            {
+                "description": "+ 30% Sniper Ammo Capacity"
+            },
+            {
+                "description": "+ 10% Damage with Sniper Rifles"
+            }
+        ],
+        "title": "STOCK POUCH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_0_2.jpg",
+        "id": 119,
+        "properties":
+        [
+            {
+                "description": "+ 30% Pistol/SMG Ammo Capacity"
+            },
+            {
+                "description": "+ 10% Damage with Pistols and SMGS"
+            }
+        ],
+        "title": "MAG CARRIER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_0_3.jpg",
+        "id": 120,
+        "properties":
+        [
+            {
+                "description": "+ 20% Sprint Speed"
+            },
+            {
+                "description": "- 30% Sprint Stamina Efficiency"
+            }
+        ],
+        "title": "MAD DASH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_0_4.jpg",
+        "id": 121,
+        "properties":
+        [
+            {
+                "description": "+ 25% Ammo Сарacity"
+            }
+        ],
+        "title": "AMMO POUCH"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_1_0.jpg",
+        "id": 122,
+        "properties":
+        [
+            {
+                "description": "+ 50% Ammo Capacity"
+            },
+            {
+                "description": "- 20% Stamina Efficiency"
+            }
+        ],
+        "title": "AMMO BELT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_1_1.jpg",
+        "id": 123,
+        "properties":
+        [
+            {
+                "description": "+ 75% Ammo Capacity"
+            },
+            {
+                "description": "DISABLES: Support Accessories"
+            }
+        ],
+        "title": "AMMO MULE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_1_2.jpg",
+        "id": 124,
+        "properties":
+        [
+            {
+                "description": "+ 20% Accuracy"
+            }
+        ],
+        "title": "FRONT SIGHT FOCUS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_1_3.jpg",
+        "id": 125,
+        "properties":
+        [
+            {
+                "description": "+ 30% Accuracy"
+            },
+            {
+                "description": "- 20% Stamina Efficiency"
+            }
+        ],
+        "title": "OPTICS ENTHUSIAST"
+    },
+    {
+        "effects":
+        [],
+        "filename": "6_1_4.jpg",
+        "id": 126,
+        "properties":
+        [
+            {
+                "description": "+ 50% Accuracy"
+            },
+            {
+                "description": "DISABLES: Aim Down Sights"
+            }
+        ],
+        "title": "QUICK KILL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_0_0.jpg",
+        "id": 127,
+        "properties":
+        [
+            {
+                "description": "+ 5% Damage Resistance"
+            },
+            {
+                "description": "+ 5 Health"
+            }
+        ],
+        "title": "MOTORCYCLE JACKET"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_0_1.jpg",
+        "id": 128,
+        "properties":
+        [
+            {
+                "description": "+ 10% Damage Resistance"
+            },
+            {
+                "description": "+ 5 Health"
+            },
+            {
+                "description": "- 20% Stamina Efficiency"
+            }
+        ],
+        "title": "PADDED SUIT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_0_2.jpg",
+        "id": 129,
+        "properties":
+        [
+            {
+                "description": "+ 15% Damage Resistance"
+            },
+            {
+                "description": "+ 10 Health"
+            },
+            {
+                "description": "DISABLES: Aim Down Sights"
+            }
+        ],
+        "title": "MOTORCYCLE HELMET"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_0_3.jpg",
+        "id": 130,
+        "properties":
+        [
+            {
+                "description": "+ 5% Bullet Damage"
+            },
+            {
+                "description": "+ 50% Bullet Penetration"
+            }
+        ],
+        "title": "COMBAT TRAINING"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_0_4.jpg",
+        "id": 131,
+        "properties":
+        [
+            {
+                "description": "+ 7.5% Bullet Damage"
+            },
+            {
+                "description": "+ 100% Bullet Penetration"
+            },
+            {
+                "description": "- 20% Stamina Efficiency"
+            }
+        ],
+        "title": "LARGE CALIBER ROUNDS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_1_0.jpg",
+        "id": 132,
+        "properties":
+        [
+            {
+                "description": "+ 10% Bullet Damage"
+            },
+            {
+                "description": "+ 150% Bullet Penetration"
+            },
+            {
+                "description": "When you kill a Mutation, you lose 5 Copper."
+            }
+        ],
+        "title": "SILVER BULLETS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_1_1.jpg",
+        "id": 133,
+        "properties":
+        [
+            {
+                "description": "+ 20% Healing Efficiency"
+            }
+        ],
+        "title": "ANTIBIOTIC OINTMENT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_1_2.jpg",
+        "id": 134,
+        "properties":
+        [
+            {
+                "description": "+ 40% Healing Efficiency"
+            },
+            {
+                "description": "- 20% Stamina Efficiency"
+            }
+        ],
+        "title": "EMT BAG"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_1_3.jpg",
+        "id": 135,
+        "properties":
+        [
+            {
+                "description": "+ 60% Healing Efficiency"
+            },
+            {
+                "description": "- 50% Use Speed"
+            }
+        ],
+        "title": "FIELD SURGEON"
+    },
+    {
+        "effects":
+        [],
+        "filename": "7_1_4.jpg",
+        "id": 136,
+        "properties":
+        [
+            {
+                "description": "+ 20% Stamina Regeneration"
+            },
+            {
+                "description": "+ 5 Health"
+            }
+        ],
+        "title": "ENERGY BAR"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_0_0.jpg",
+        "id": 137,
+        "properties":
+        [
+            {
+                "description": "+ 40% Stamina Regeneration"
+            },
+            {
+                "description": "- 10% Stamina Efficiency"
+            }
+        ],
+        "title": "COLD BREW COFFEE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_0_1.jpg",
+        "id": 138,
+        "properties":
+        [
+            {
+                "description": "+ 100% Stamina Regeneration"
+            },
+            {
+                "description": "- 50% Maximum Stamina"
+            }
+        ],
+        "title": "NATURAL SPRINTER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_0_2.jpg",
+        "id": 139,
+        "properties":
+        [
+            {
+                "description": "TEAM EFFECTS When you or a teammate becomes incapacitated, all teammates heal for 20 health over 15 seconds."
+            }
+        ],
+        "title": "INSPIRING SACRIFICE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_0_3.jpg",
+        "id": 140,
+        "properties":
+        [
+            {
+                "description": "Healing a teammate also applies 50% of the effect to you."
+            }
+        ],
+        "title": "CHARITABLE SOUL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_0_4.jpg",
+        "id": 141,
+        "properties":
+        [
+            {
+                "description": "While crouching, gain 10% Damage Resistance and 40% Асcuracy."
+            }
+        ],
+        "title": "HUNKER DOWN"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_1_0.jpg",
+        "id": 142,
+        "properties":
+        [
+            {
+                "description": "TEAM EFFECTS When you or a teammate becomes incapacitated, all teammates gain 30% Damage, 20% Reload Speed, and Unlimited Ammo for 10 seconds."
+            }
+        ],
+        "title": "AVENGE THE FALLEN"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_1_1.jpg",
+        "id": 143,
+        "properties":
+        [
+            {
+                "description": "Melee kills grant 1 Temporary Health to you and nearby teammates."
+            }
+        ],
+        "title": "VANGUARD"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_1_2.jpg",
+        "id": 144,
+        "properties":
+        [
+            {
+                "description": "Precision Kills grant 5% Reload Speed for 5 seconds (stacking up to 10 times)."
+            }
+        ],
+        "title": "IN THE ZONE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_1_3.jpg",
+        "id": 145,
+        "properties":
+        [
+            {
+                "description": "+ 25% Accuracy with Assault Rifles and Sniper Rifles."
+            }
+        ],
+        "title": "TRIGGER CONTROL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "8_1_4.jpg",
+        "id": 146,
+        "properties":
+        [
+            {
+                "description": "- 20% Health"
+            },
+            {
+                "description": "TEAM EFFECTS + 1 Team Extra Life"
+            }
+        ],
+        "title": "NEEDS OF THE MANY"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_0_0.jpg",
+        "id": 147,
+        "properties":
+        [
+            {
+                "description": "Turns your Bash into a Knife that counts as a Melee weapon."
+            }
+        ],
+        "title": "COMBAT KNIFE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_0_1.jpg",
+        "id": 148,
+        "properties":
+        [
+            {
+                "description": "Gain 30% Move Speed and Accuracy while crouched and using an LMG."
+            }
+        ],
+        "title": "MEATGRINDER"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_0_2.jpg",
+        "id": 149,
+        "properties":
+        [
+            {
+                "description": "+ 40% Reload Speed with Shotguns."
+            }
+        ],
+        "title": "SCATTERGUN SKILLS"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_0_3.jpg",
+        "id": 150,
+        "properties":
+        [
+            {
+                "description": "+ 40% Move Speed while aiming down sights with Sniper Rifles."
+            }
+        ],
+        "title": "CONTROLLED MOVEMENT"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_0_4.jpg",
+        "id": 151,
+        "properties":
+        [
+            {
+                "description": "TEAM EFFECTS + 10% Team Ammo Capacity"
+            }
+        ],
+        "title": "AMMO FOR ALL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_1_0.jpg",
+        "id": 152,
+        "properties":
+        [
+            {
+                "description": "While crouching you neither take nor deal Friendly Fire damage."
+            },
+            {
+                "description": "+ 10 Health"
+            }
+        ],
+        "title": "DOWN IN FRONT!"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_1_1.jpg",
+        "id": 153,
+        "properties":
+        [
+            {
+                "description": "When you use a Medical Accessory, the target heals for an additional 20 Health over 30 seconds."
+            }
+        ],
+        "title": "POULTICE"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_1_2.jpg",
+        "id": 154,
+        "properties":
+        [
+            {
+                "description": "When you use a Medical Accessory, all teammates heal for 5 Health."
+            }
+        ],
+        "title": "GROUP THERAPY"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_1_3.jpg",
+        "id": 155,
+        "properties":
+        [
+            {
+                "description": "First Aids and Defibrillators also recover 15 Trauma Damage and 1 Extra Life."
+            }
+        ],
+        "title": "MEDICAL PROFESSIONAL"
+    },
+    {
+        "effects":
+        [],
+        "filename": "9_1_4.jpg",
+        "id": 156,
+        "properties":
+        [
+            {
+                "description": "You can sense nearby Ammo. More Ammo spawns."
+            }
+        ],
+        "title": "AMMO SCAVENGER"
+    }
+]

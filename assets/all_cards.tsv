@@ -1,0 +1,157 @@
+deck	index	type	name	cost	totalCost$	effect
+Alley	1	Card	Combat Training	30	30	 +5% Bullet Damage, +50% Bullet Penetration
+Alley	2	Card	Ammo Belt	45	75	 +50% Ammo Capacity, -20% Stamina Efficiency
+Alley	3	Card	HI Vis Sights	30	105	 +30% Aim Speed
+Alley	4	Card	Front Sight Focus	30	135	 +20% Accuracy 
+Alley	5	Card	Grenade Pouch	30	165	 +1 Offensive Inventory
+Alley	6	Card	Ammo for All	100	265	 +10% Team Ammo Capacity 
+Alley	7	Card	Large Caliber Rounds	45	310	 +7.5% Bullet Damage, +100% Bullet Penetration, -20% Stamina Efficiency 
+Alley	8	Card	Widemouth Magwell	45	355	 +30% Reload Speed, -5% Damage Resistance
+Alley	9	Card	Offensive Scavenger	100	455	You can sense nearby Offensive Accessories. More Offensive Accessories spawn.
+Alley	10	Card	Ammo Mule	70	525	 +75% Ammo Capacity, DISABLES: Support Accessories
+Alley	11	Card	Grenade Training	30	555	 +25% Accessory Damage
+Alley	12	Card	Optics Enthusiast	45	600	 +30% Accuracy, -20% Stamina Efficiency 
+Alley	13	Card	Batter Up	30	630	 +40% Melee Damage, +5 Health
+Alley	14	Card	Avenge The Fallen	100	730	When you or a teammate becomes incapacitated, all teammates gain 30% Damage, 20% Reload Speed, and Unlimited Ammo for 10 Seconds.
+Alley	15	Card	Patient Hunter	70	800	Each second you Aim Down Sights increases your Damage by 10% (up to 3 stacks).
+Alley	16	Card	Double Grenade Pouch	45	845	 +2 Offensive Inventory, -10% Damage Dealt
+Alley	17	Card	Down in Front!	100	945	While Crouching you neither take nor deal Friendly Fire damage. +10 Health
+Alley	18	Card	Demolitions Expert	45	990	 +50% Accessory Damage, -15% Ammo Capacity 
+Alley	19	Card	Mag Coupler	70	1060	 +50% Reload Speed, DISABLES: Aim Down Sights
+Alley	20	Card	Two is One and One is None	100	1160	You can equip a Primary weapon in your Secondary slot. -25% Swap speed
+Alley	21	Card	Spiky Bits	45	1205	 +20% Melee Damage, +10% Damage Resistance while using a Melee weapon, -15% Ammo Capacity
+Alley	22	Card	Silver Bullets	70	1275	 +10% Bullet Damage, +150% Bullet Penetration, When you kill a Mutation, you lose 5 Copper
+Alley	23	Card	Steady Aim	70	1345	 +80% Aim Speed, -50% ADS Move Speed
+Alley	24	Card	Admin Reload	100	1445	When you stow your weapon, it reloads. -15% Ammo Capacity 
+Alley	25	Card	Money Grubbers	70	1515	Each time your team loots Copper, you can gain 3 additional Copper, stacking up to 75 additional Copper
+Alley	26	Card	Surplus Pouches	70	1585	 -10% Health, +1 Team Offensive Accessory
+Alley	27	Card	Weapon Scavenger	70	1655	You can sense nearby Weapons. More weapons spawn
+Alley	28	Card	Vanguard	100	1755	Melee kills grant 1 Temporary Health to you and nearby teammates.
+Alley	29	Card	Quick Kill	70	1825	 +50% Accuracy, DISABLES: Aim Down Sights
+Alley	30	Card	Chemical courage	70	1895	Pain meds you apply also grant +25% Damage for 60 Seconds.
+Alley	31	Card	Power reload	150	2045	Reloading a gun within 0.75 Seconds of reaching low ammo will increase its magazine size by 30% until the next reload.
+Alley	32	Card	Hunker down	100	2145	While Crouching, gain 10% Damage Resistance and 40% Accuracy
+Alley	33	Card	Glass Cannon	150	2295	 +25% Damage, -30 Health 
+Alley	34	Card	Marked for Death	150	2445	Mutations you Ping are highlighted and your team deals 10% increased damage to highlighted enemies.
+Alley	35	Card	Highwayman	100	2545	Pistol Kills have a 2% Chance to Spawn Ammo.
+Alley	36	Card	Ignore the Pain	100	2645	 +20% Melee Damage against Mutations. When you deal Melee damage to a Mutation heal 1 Health and recover 3 Stamina.
+Alley	37	Card	Bomb Squad	100	2745	 +100% Explosive Damage, +35% Explosive Resistance
+Alley	38	Card	Face your Fears	100	2845	Gain 2 Temporary Health whenever you kill a Ridden within 2 meters.
+Alley	39	Card	Needs of the Many	100	2945	 -20% Health, +1 Team Extra Life
+Alley	40	Card	Trigger Control	100	3045	 +25% Accuracy with Assault Rifles and Sniper Rifles.
+Alley	41	Card	Improvised Explosives	70	3115	 +75% Accessory Damage, -25% Swap Speed
+Alley	42	Card	Killer's Instinct	70	3185	 +30% Weakspot Damage. DISABLES: Aim Down Sights
+Alley	43	Card	In the Zone	100	3285	Precision Kills grant 5% Reload Speed for 5 Seconds (stacking up to 10 times).
+Alley	44	Card	Controlled Movement	100	3385	 +40% Movement Speed while aiming down sights with Sniper Rifles.
+Alley	45	Card	Scattergun Skills	100	3485	 +40% Reload Speed with Shotguns.
+Alley	46	Card	Share the Wealth	100	3585	Each teammate gets 100 Bonus Copper at the start of each level.
+Clinic	1	Card	Motorcycle Jacket	30	30	 +5% Damage Resistance, +5 Health
+Clinic	2	Card	Durable	30	60	 +15% Trauma Resistance  +5 Health
+Clinic	3	Card	Poultice	70	130	When you use a medical accessory, the target heals for an additional 20 Health over 30 Seconds.
+Clinic	4	Card	EMT Bag	45	175	 +40% Healing Efficiency  -20% Stamina Recovery
+Clinic	5	Card	Inspiring Sacrifice	100	275	When you or a teammate becomes incapacitated, All teammates heal for 20 Health over 15 Seconds.
+Clinic	6	Card	Padded Suit	45	320	 +10% Damage Resistance, +5 Health, -20% Stamina Efficiency
+Clinic	7	Card	Hydration Pack	45	365	 +25 Health, -15% Ammo Capacity
+Clinic	12	Card	Buckshot Bruiser	75	440	When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.
+Clinic	13	Card	Support Scavenger	100	540	You can sense nearby Support Accessories. More Support Accessories Spawn
+Clinic	14	Card	Fanny Pack	30	570	 +1 Support Inventory
+Clinic	15	Card	Slugger	30	600	 +5 Health, +10% Melee Stamina Efficiency, +20% Melee Attack Speed
+Clinic	16	Card	Smelling Salts	30	630	 +100% Revive Speed
+Clinic	17	Card	Body Armor	45	675	 +25% Trauma Resistance, -20% Ammo Capacity
+Clinic	18	Card	Scar Tissue	100	775	Take 1 less damage from all Ridden.
+Clinic	19	Card	Fresh Bandage	70	845	Heal 10 Trauma Damage at the start of each level.
+Clinic	20	Card	Shoulder Bag	45	890	 +2 Support Inventory, -10% Damage Dealt
+Clinic	21	Card	Pep Talk	45	935	 +150% Revive Speed, -5% Damage Resistance
+Clinic	22	Card	Well Fed	100	1035	 -20% Stamina Regen, +10 Team Health
+Clinic	23	Card	Charitable Soul	100	1135	Healing a teammate also applies 50% of the effect to you.
+Clinic	24	Card	Amped Up	45	1180	When you exit a starting saferoom, your team gains 50 Temporary Health.
+Clinic	25	Card	Motorcycle Helmet	70	1250	 +15% Damage Resistance, +10 Health, DISABLES: Aim Down Sights
+Clinic	26	Card	Broadside	100	1350	Precision Kills have a 20% chance to cause Ridden to explode, dealing 15 damage to other Ridden with 4 meters.
+Clinic	27	Card	Combat Medic	100	1450	 +50% Use Speed, Heals teammates for an additional 20 when you revive them.
+Clinic	28	Card	Box O` Bags	70	1520	 -10% Health, +1 Team Support Inventory
+Clinic	29	Card	Canned Goods	70	1590	 +40 Health, -30% Stamina
+Clinic	30	Card	Wooden Armor	70	1660	 +40% Trauma Resistance, -100% Fire Resistance, -100% Acid Resistance, -100% Explosion Resistance
+Clinic	31	Card	Group Therapy	70	1730	When you use a Medical Accessory, all teammates heal for 5 Health.
+Clinic	32	Card	Sunder	150	1880	Melee hits cause the target to take 20% Increased damage for 5 Seconds.
+Clinic	33	Card	Numb	45	1925	Gain +15% Damage Resistance while you have Temporary Health
+Clinic	34	Card	Life Insurance	100	2025	 +2 Extra Life, Lose 50 Copper at the start of each level.
+Clinic	35	Card	Overwatch	100	2125	Kills from greater than 15 meters grant 5 Temporary Health to teammates within 10 meters of the target.
+Clinic	36	Card	True Grit	100	2225	When you take a single hit for 15 or more damage, heal 10 Health over 5 Seconds.
+Clinic	37	Card	Pyro	100	2325	 +100% Fire Damage, Kills with fire grant you 3 Temporary Health. You can sense flammable objects nearby.
+Clinic	38	Card	Heavy Hitter	100	2425	Melee hits against Weakspots deal +20 Additional Stumble Damage
+Clinic	39	Card	Line 'em Up	100	2525	 +100% Bullet Penetration with Assault Rifles.
+Clinic	40	Card	Rousing Speech	70	2595	 +225% Revive Speed, +20% Reduced Incap Trauma. DISABLES: Offensive Accessories
+Clinic	41	Card	Medical Expert	100	2695	 +15% Healing Efficiency, When you use a Medical Accessory you gain 15% Movement Speed for 15 Seconds.
+Clinic	42	Card	Experienced EMT	75	2770	When you use a Medical Accessory, the target gains +20% Maximum Health until the end of the level.
+Clinic	43	Card	Saferoom Recovery	75	2845	Your team heals 5 Trauma Damage and refills 10% Ammo at the start of each level.
+Clinic	44	Card	Medical Professional	100	2945	First Aid and Defibrillators also recover 15 Trauma Damage and 1 Extra Life
+Clinic	45	Card	Miraculous Recovery	150	3095	When you use a Medical Accessory, it has a 25% chance to have 100% increased effect.
+Nest	1	Card	Cross Trainers	10	10	 +20% Stamina, +20% Stamina Regen, +3% Move Speed, +5 Health
+Nest	2	Card	Ridden Slayer	30	40	 +20% Weakspot Damage
+Nest	3	Card	Shooting Gloves	30	70	 +25% Weapon Swap Speed
+Nest	4	Card	Superior Cardio	30	100	 +20% Stamina, +20% Sprint Efficiency  +5 Health
+Nest	5	Card	Evasive Action	70	170	When you take a hit for 10 or more damage. Gain 20% Movement Speed for 3 seconds.
+Nest	6	Card	Run and Gun	150	320	You can sprint while shooting
+Nest	7	Card	Screwdriver	30	350	 +50% Use Speed, +10% Stamina
+Nest	8	Card	Energy Bar	30	380	 +20% Stamina Regeneration, +5 Health
+Nest	9	Card	Utility Scavenger	100	480	You can sense nearby Quick Accessories. More Quick Accessories spawn.
+Nest	10	Card	Dash	30	510	 +5% Move Speed
+Nest	11	Card	Rolling Thunder	100	610	 +35% Movement Speed while firing with Shotguns, +10% Damage with shotguns.
+Nest	12	Card	Reckless Strategy	45	655	 +30% Weakspot Damage, -5% Damage Resistance
+Nest	13	Card	Breakout	100	755	Breakout: Hold [E/SQUARE/X] to free yourself from Grabs. +50% Breakout Cooldown Reduction (Base 60 seconds). 3 Seconds to release
+Nest	14	Card	Fleet of Foot	45	800	 +10% Move Speed, -5% Damage Resistance
+Nest	15	Card	Pep In Your Step	70	870	Precision Kills grant you 10% Movement Speed for 5 Seconds.
+Nest	16	Card	Guns Out	45	915	 +50% Weapon Swap Speed, -5% Damage Resistance 
+Nest	17	Card	Tunnel Vision	45	960	 +50% Aim Speed, -5% Damage Resistance 
+Nest	18	Card	Energy Drink	45	1005	 +40% Stamina, -5% Damage Resistance
+Nest	19	Card	Marathon Runner	100	1105	No Movement Penalty for Strafe or Backpedal, DISABLES: Sprint
+Nest	20	Card	Brazen	45	1150	 +20% Melee Stamina Efficiency, +30% Melee Attack speed, -5% Damage Resistance
+Nest	21	Card	Sadistic	100	1250	Gain 5% Weakspot Damage for Each Precision Kill in the last 10 Seconds.
+Nest	22	Card	Olympic Sprinter	45	1295	 +30% Sprint Efficiency, -5% Damage Resistance
+Nest	23	Card	Ammo Stash	100	1395	Your secondary weapons have Unlimited Ammo. Your secondary weapons reload 20% Slower
+Nest	24	Card	Compound Interest	100	1495	Gain 10% of your total Copper in each Saferoom.
+Nest	25	Card	Cocky	70	1565	 +75% Weapon Swap Speed, When you take Damage your Accuracy is reduced by 20% for 3 Seconds.
+Nest	26	Card	Mandatory PT	100	1665	 +15% Team Stamina
+Nest	27	Card	Mugger	100	1765	Melee Kills have a 2% Chance to spawn ammo.
+Nest	28	Card	Mean Drunk	70	1835	 +60% Melee Damage. Your Melee Attacks cause cleave through enemies dealing damage in a large area. DISABLES: Sprint
+Nest	29	Card	Multitool	45	1880	 +75% Use Speed, -5% Damage Resistance
+Nest	30	Card	Stimulants	45	1925	Pain Meds you apply also grant +10% Move Speed, +10% Reload Speed, and +10% Weapon Swap Speed for 30 Seconds.
+Nest	31	Card	Meth Head	70	1995	 +40% Melee Attack Speed, +30% Melee Attack Efficiency, Your Melee Attacks no longer stick in tough enemies. DISABLES: Aim Down Sights
+Nest	32	Card	Shredder	150	2145	Each bullet hit causes the target to take 1% increased damage for 3 Seconds (Stacks up to 15%).
+Nest	33	Card	Reckless	70	2215	 +40% Sprint Efficiency, When you take Damage while Sprinting you lose all Stamina.
+Nest	34	Card	Run Like Hell	70	2285	 +15% Move Speed, When you take Damage, your Accuracy is reduced by 20% for 3 Seconds.
+Nest	35	Card	Power Swap	150	2435	Changing Weapons within 0.75 Seconds of reaching low ammo grants +20% Damage for 5 Seconds.
+Nest	36	Card	Rhythmic Breathing	70	2505	 +60% Stamina, -20% Slow Resistance
+Nest	37	Card	On your Mark...	45	2550	When you exit a starting saferoom your team gains +15% Movement Speed for 30 Seconds.
+Nest	38	Card	Fire in the Hole!	100	2650	When you throw an Offensive Accessory, Gain 20 Temporary Health and 20% Move speed for 5 Seconds.
+Nest	39	Card	Headband Magnifier	70	2720	 +125% Use Speed. When you take Damage, you have a change to be Blinded for 1 Second.
+Nest	40	Card	Cold Brew Coffee	70	2790	 +40% Stamina Regeneration, -10% Stamina Efficiency 
+Nest	41	Card	Hyper-Focused	70	2860	 +50% Weakspot Damage, -75% ADS Move Speed.
+Nest	42	Card	Knowledge is Power	100	2960	 +10% Weakspot Damage, Allows Player to see values for damage they deal and enemy health bars.
+Nest	43	Card	Bounty Hunter	100	3060	When you kill a Mutation, gain 10 Copper (Up to 300 per Level).
+Nest	44	Card	Speed Demon	100	3160	 +6% Movement Speed while using an SMG, +35% Reload Speed while using an SMG.
+Nest	45	Card	Natural Sprinter	70	3230	 +100% Stamina Regeneration, -50% Maximum Stamina
+Nest	46	Card	Hellfire	100	3330	 +45% Movement Speed while firing. +5% Move Speed while not firing.
+Nest	47	Card	Mad Dash	75	3405	 +20% Sprint Speed, -30% Stamina Efficiency
+Nest	48	Card	Hazard Pay	75	3480	Gain 250 Bonus Copper at the start of Each level.
+Starter	N/A	Card	Antibiotic Ointment	-	-	 +20% Healing Efficiency
+Starter	N/A	Card	Battle Lust	-	-	Melee Kills heal 2 health
+Starter	N/A	Card	Combat Knife	-	-	Turns your Bash into a Knife that counts as a Melee weapon.
+Starter	N/A	Card	Copper Scavenger	-	-	You can sense Nearby Copper, More copper piles spawn
+Starter	N/A	Card	Reload Drills	-	-	 +20% Reload Speed
+Starter	N/A	Card	Second Chance	-	-	 +1 Extra Life, +5 Health
+Starter	N/A	Card	Wounded Animal	-	-	Kills while at Critical Health recover 1 Health
+Strip	1	Card	Vitamins	5	5	 +15 Health 
+Strip	2	Card	Ammo Pouch	10	15	 +25% Ammo Capacity
+Strip	5	Card	Heavy Attack	100	115	Charge: Hold [LEFTCLICK/R2/RT] with Melee weapon to burst forward. Charge attacks deal 100% increased damage
+Accomplishment	N/A	Card	Adrenaline Fueled	-	-	 +100% Stamina, -75% Stamina Regeneration. When you kill an enemy, gain 10 Stamina Instantly and an additional 10 Stamina over 5 Seconds.
+Accomplishment	N/A	Card	Ammo Scavenger	-	-	You can sense Nearby Ammo, More ammo spawns
+Accomplishment	N/A	Card	Berserker	-	-	Gain 10% Melee Damage. 10% Melee Speed, and 5% Move Speed for each Melee kill in the last 4 Seconds.
+Accomplishment	N/A	Card	Confident Killer	-	-	When you or your team kills a mutation gain 1% damage (up to 15%) until the end of the level. Only Card holder obtains damage increase
+Accomplishment	N/A	Card	Field Surgeon	-	-	 +60% Healing Efficiency, -50% Use Speed
+Accomplishment	N/A	Card	Lucky Pennies	-	-	Whenever your team loots Copper, you have a 35% chance to find 35% additional Copper
+Accomplishment	N/A	Card	Mag Carrier	-	-	 +30% Pistol/SMG Ammo Capacity, +10% Damage with Pistols and SMGs
+Accomplishment	N/A	Card	Meatgrinder	-	-	Gain 30% Move Speed and Accuracy while crouched and using an LMG.
+Accomplishment	N/A	Card	Shell Carrier	-	-	 +30% Shotgun Ammo Capacity, +10% Damage with Shotguns.
+Accomplishment	N/A	Card	Stock Pouch	-	-	 +30% Sniper Ammo Capacity, +10% Damage with Sniper Rifles.
+Accomplishment	N/A	Card	Tactical Vest	-	-	 +30% Rifle Ammo Capacity, +10% Damage with Assault Rifles, and LMGs.

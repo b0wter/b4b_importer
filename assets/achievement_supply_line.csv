@@ -1,0 +1,12 @@
+index,name,version,cardName,cost
+1,Achievement,1,Ammo Scavenger,Get 500 Total Pistol Kills
+2,Achievement,1,Berserker,Get 500 Total Melee Kills
+3,Achievement,1,Mag Carrier,Get 500 Total SMG Kills
+4,Achievement,1,Meatgrinder,Get 500 Total LMG Kills
+5,Achievement,1,Shell Carrier,Get 500 Total Shotgun Kills
+6,Achievement,1,Stock Pouch,Get 500 Total Sniper Rifle Kills
+7,Achievement,1,Tactical Vest,Get 500 Total Assault Rifle Kills
+8,Achievement,1,Adrenaline Fueled,Complete a level while getting at least 50 Kills with melee weapons
+9,Achievement,1,Confident Killer,Kill at least one of each non-boss Mutation
+10,Achievement,1,Lucky Pennies,Defend the Jukebox in Bar Room Blitz without it breaking
+11,Achievement,1,Field Surgeon,"Heal 5,000 Total Health"

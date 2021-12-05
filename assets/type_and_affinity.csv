@@ -1,0 +1,178 @@
+type,affinity,name
+Offense,Fortune,Admin Reload
+Offense,Reflex,Adrenaline Fueled
+Offense,Discipline ,Ammo
+Offense ,Discipline,Ammo Belt
+Offense ,Discipline ,Ammo For All
+Offense ,Discipline ,Ammo Mule
+Offense ,Discipline,Ammo Pouch
+Utility,Discipline ,Ammo Scavenger
+Offense,Fortune,Ammo Stash
+Defense,Discipline ,Amped Up
+Defense,Discipline,Antibiotic Ointment
+Offense,Discipline ,Avenge the Fallen
+Offense ,Brawn,Batter Up
+Defense,Brawn,Battle Lust
+Offense ,Brawn,Berserker
+Defense,Brawn,Body Armor
+Offense ,Brawn,Bomb Squad
+Utility,Fortune,Bounty Hunter
+Defense,Fortune ,Box O` Bags
+Offense,Reflex,Brazen
+Mobility,Reflex,Breakout
+Offense ,Brawn,Broadside
+Defense,Brawn,Buckshot Bruiser
+Defense,Brawn,Canned Goods
+Defense,Discipline ,Charitable Soul
+Offense ,Brawn,Chemical Courage
+Utility ,Reflex,Cocky
+Mobility,Discipline ,Cold Brew Coffee
+Offense ,Discipline,Combat Knife
+Defense,Reflex,Combat Medic
+Offense,Discipline,Combat Training
+Utility,Fortune,Compound Interest
+Offense,Brawn,Confident Killer
+Mobility,Discipline ,Controlled Movement
+Utility,Fortune,Copper Scavenger
+Mobility,Reflex,Cross Trainers
+Mobility,Reflex,Dash
+Offense,Brawn,Demolitions Expert
+Character,Cleaner,Doc
+Offense,Fortune,Double Grenade Pouch
+Defense,Discipline ,Down in Front!
+Defense,Brawn,Durable
+Defense,Discipline,EMT Bag
+Mobility ,Discipline ,Energy Bar
+Mobility ,Reflex,Energy Drink
+Character,Cleaner,Evangelo
+Mobility,Reflex,Evasive Action
+Defense ,Discipline ,Experienced EMT
+Defense ,Brawn,Face Your Fears
+Defense,Fortune ,Fanny Pack
+Defense,Discipline ,Field Surgeon
+Mobility,Reflex,Fire in the Hole!
+Mobility,Reflex,Fleet of Foot
+Utility,Fortune,Fortune
+Defense ,Brawn,Fresh Bandage
+Offense ,Discipline ,Front Sight Focus
+Offense,Reflex,Glass Cannon
+Offense,Fortune,Grenade Pouch
+Offense ,Brawn,Grenade Training
+Defense,Discipline ,Group Therapy
+Utility,Reflex,Guns Out
+Utility ,Fortune ,Hazard Pay
+Utility ,Reflex,Headband Magnifier
+Defense,Brawn,Health
+Offense,Brawn,Heavy Attack
+Offense,Brawn,Heavy Hitter
+Mobility,Reflex,Hellfire
+Offense,Reflex,Hi Vis Sights
+Utility,Fortune,Highwayman
+Character,Cleaner,Hoffman
+Character,Cleaner,Holly
+Defense,Discipline ,Hunker Down
+Defense,Brawn,Hydration Pack
+Offense,Reflex,Hyper-Focused
+Defense,Brawn,Ignore the Pain
+Offense,Brawn,Improvised Explosives
+Offense,Discipline ,In the Zone
+Defense,Discipline,Inspiring Sacrifice
+Character,Cleaner,Jim
+Character,Cleaner,Karlee
+Offense,Reflex,Killer's Instinct
+Utility,Discipline ,Knowledge is Power
+Offense,Discipline ,Large Caliber Rounds
+Defense,Fortune,Life Insurance
+Offense ,Brawn,Line 'em Up
+Utility,Fortune ,Lucky Pennies
+Mobility,Reflex,Mad Dash
+Offense,Reflex,Mag Carrier
+Offense,Reflex,Mag Coupler
+Mobility,Reflex,Mandatory PT
+Mobility,Reflex,Marathon Runner
+Utility,Discipline ,Marked for Death
+Offense,Brawn,Mean Drunk
+Offense,Discipline ,Meatgrinder
+Defense,Reflex,Medical Expert
+Defense,Discipline ,Medical Professional
+Offense ,Reflex,Meth Head
+Defense,Reflex,Miraculous Recovery
+Character,Cleaner,Mom
+Utility,Fortune,Money Grubbers
+Defense,Discipline ,Motorcycle Helmet
+Defense ,Discipline,Motorcycle Jacket
+Utility,Fortune,Mugger
+Utility,Reflex,Multitool
+Mobility ,Discipline ,Natural Sprinter
+Defense,Discipline ,Needs of the Many
+Defense ,Brawn,Numb
+Utility,Brawn,Offensive Scavenger
+Mobility,Reflex,Olympic Sprinter
+Mobility,Reflex,On your Mark...
+Offense ,Discipline ,Optics Enthusiast
+Defense ,Brawn,Overwatch
+Defense,Discipline,Padded Suit
+Offense,Discipline ,Patient Hunter
+Mobility,Reflex,Pep in your Step
+Utility,Reflex,Pep Talk
+Defense,Discipline,Poultice
+Offense,Discipline ,Power Reload
+Offense,Reflex,Power Swap
+Offense ,Brawn,Pyro
+Offense ,Discipline ,Quick Kill
+Mobility ,Reflex,Reckless
+Offense ,Reflex,Reckless Strategy
+Offense,Reflex,Reload Drills
+Mobility ,Reflex,Rhythmic Breathing
+Offense,Reflex,Ridden Slayer
+Mobility,Reflex,Rolling Thunder
+Utility,Reflex,Rousing Speech
+Mobility,Fortune ,Run and Gun
+Mobility,Reflex,Run like Hell
+Offense,Reflex,Sadistic
+Defense,Fortune,Saferoom Recovery
+Defense ,Brawn,Scar Tissue
+Offense,Discipline ,Scattergun Skills
+Utility,Reflex,Screwdriver
+Defense,Brawn,Second Chance
+Utility,Fortune,Share the Wealth
+Offense,Fortune,Shell Carrier
+Utility,Reflex,Shooting Gloves
+Defense,Fortune ,Shoulder Bag
+Offense,Reflex,Shredder
+Offense,Discipline ,Silver Bullets
+Offense ,Reflex,Slugger
+Utility,Reflex,Smelling Salts
+Mobility,Reflex,Speed Demon
+Offense ,Brawn,Spiky Bits
+Mobility,Reflex,Stamina
+Offense,Reflex,Steady Aim
+Mobility,Reflex,Stimulants
+Offense,Reflex,Stock Pouch
+Offense ,Brawn,Sunder
+Mobility,Reflex,Superior Cardio
+Utility,Discipline ,Support Scavenger
+Offense,Fortune,Surplus Pouches
+Offense,Discipline ,Tactical Vest
+Offense,Upgrade ,Team Ammo
+Defense,Upgrade,Team Health
+Loot,Upgrade,Team Offensive Item Upgrade
+Loot,Upgrade ,Team Offensive Slot
+Loot,Upgrade,Team Quick Item Upgrade
+Utility ,Upgrade ,Team Quick Slot
+Mobility,Upgrade ,Team Stamina
+Loot,Upgrade,Team Support Item Upgrade
+Loot,Upgrade,Team Support Slot
+Offense,Discipline ,Trigger Control
+Defense ,Brawn,True Grit
+Offense,Reflex,Tunnel Vision
+Offense,Brawn,Two is One and One is None
+Utility,Reflex,Utility Scavenger
+Defense,Discipline ,Vanguard
+Defense,Brawn,Vitamins
+Character,Cleaner,Walker
+Utility ,Discipline ,Weapon Scavenger
+Defense ,Brawn,Well Fed
+Offense,Reflex,Widemouth Magwell
+Defense,Brawn,Wooden Armor
+Defense,Fortune ,Wounded Animal

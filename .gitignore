@@ -1,4 +1,7 @@
+.vscode
+.idea
 back-4-blood-deck-builder-a2b0fa571f95.json
 back-4-blood-*.json
 result*.*
 node_modules
+named/
